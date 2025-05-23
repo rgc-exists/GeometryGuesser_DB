@@ -6,6 +6,13 @@
             "difficulty": 0,
             "video_download_filename": "render_Back On Track_1747963900449.mp4",
             "percInfo_download_filename": "render_Back On Track_1747963900449.txt"
+        },
+        {
+            "name": "Sonic Wave",
+            "author": "Cyclic",
+            "difficulty": 1,
+            "video_download_filename": "render_Sonic Wave_1748032759395.mp4",
+            "percInfo_download_filename": "render_Sonic Wave_1748032759395.txt"
         }
     ]
 }
